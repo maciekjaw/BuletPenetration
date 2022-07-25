@@ -1,0 +1,36 @@
+﻿Ballistic Trajectory calculator
+https://www.youtube.com/watch?v=6CSHt1-ShL4
+
+1) Travel time
+
+muzle velocity = 27 m/s
+distancefromObject
+
+taki wzor na grawitacje
+https://pl.wikipedia.org/wiki/Przyspieszenie_ziemskie
+
+b dobre video odnosnie danych do strelania jak degrees, humidity, temp, elevation
+https://www.youtube.com/watch?v=COVoBwR1oww
+
+*************************** Muzle Velocity *****************************************
+
+Muzzle velocity - to jest dobra odpowiedz
+https://www.sciencefocus.com/science/how-fast-does-a-bullet-accelerate-as-it-leaves-a-gun-barrel/
+
+How to calculate muzzle velocity - TO NIE JEST CHYBA DOBRA ODPOWIEDZ
+https://sciencing.com/calculate-muzzle-velocity-7669736.html
+
+Muzzle velocity formula
+https://www.physicsforums.com/threads/muzzle-velocity-formula.131156/
+
+*************************** Muzle Velocity *****************************************
+
+How to calculate bullet impact
+https://sciencing.com/calculate-bullet-impact-6951380.html
+
+"Each ammunition manufacturer publishes ballistic tables for their ammunition. 
+These tables will normally list the bullet velocity at the muzzle of the gun and at intervals of 100 yards out to the useful 
+range of the ammunition (usually 300 yards or so). For distances between the listed increments, you must estimate."
+
+THE TRUTH ABOUT BARREL LENGTH, MUZZLE VELOCITY AND ACCURACY
+https://www.wideopenspaces.com/the-truth-about-barrel-length-muzzle-velocity-and-accuracy/
